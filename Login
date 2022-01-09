@@ -4,3 +4,4 @@ string email_address
 string address
 int age
 string gender
+logout button
