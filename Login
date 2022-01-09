@@ -2,3 +2,6 @@ string first_name
 string last_name
 string email_address
 string address
+int age
+string gender
+logout button
